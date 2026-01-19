@@ -11,4 +11,4 @@ print(df.head())
 df.to_parquet(f"output_{month}.parquet")
 # save the output into parquet file
 
-print(f"heello pipelinee, month ={month}")
+print(f"hello pipelinee, month ={month}")
